@@ -23,7 +23,7 @@ Run this command:
 
 python -m unittest discover -s tests -p test_*.py -v
 
-##Sample output
+##  Sample output
 
 Total income: 27000.00
 Total expense: 11,524.00
@@ -32,7 +32,7 @@ Net cash flow: 15,476.00
 Laregest expense:
 2026-07-05 | Rent |Apartment rent | 8,000.00
 
-##Project files
+##  Project files
 
 
 - analyzer.py
